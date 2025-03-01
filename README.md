@@ -11,7 +11,4 @@ The HAM10000 Dataset: A Large Collection of Multi-Source Dermatoscopic Images of
 https://arxiv.org/abs/1803.10417
 
 
-The entire model building and training process is described in this Kaggle kernel:<br>
-https://www.kaggle.com/vbookshelf/skin-lesion-analyzer-tensorflow-js-web-app
-
 <br>
